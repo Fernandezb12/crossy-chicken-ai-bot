@@ -85,3 +85,9 @@ La APK se genera en `app/build/outputs/apk/debug/app-debug.apk`. Los informes un
 `app/`: `ui`, `capture`, `automation`, `vision`, `storage`, coordinados por `Hub` con un único analizador sin cola. La separación permite probar decisiones sin Android y mantener las API de permisos y captura en el módulo Android. `docs/` contiene la investigación, límites y protocolo de pruebas. `scripts/` contiene diagnóstico USB y resumen estadístico.
 
 El código del bot se entrega para su modificación. Los derechos del juego y de las capturas de prueba pertenecen a sus titulares. OpenCV, ML Kit, Kotlin y AndroidX conservan sus licencias respectivas; consulta las dependencias publicadas. No se redistribuye el juego para uso sin conexión.
+
+## Descargas
+
+- [APK ARM64 para Realme C67](https://raw.githubusercontent.com/Fernandezb12/crossy-chicken-ai-bot/main/downloads/CrossyChickenAIBot-RealmeC67-arm64-debug.apk)
+- [Proyecto Android Studio (ZIP)](https://raw.githubusercontent.com/Fernandezb12/crossy-chicken-ai-bot/main/downloads/CrossyChickenAIBot-proyecto.zip)
+- [Checksums SHA-256](https://raw.githubusercontent.com/Fernandezb12/crossy-chicken-ai-bot/main/downloads/SHA256SUMS.txt)
